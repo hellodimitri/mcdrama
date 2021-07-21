@@ -1,0 +1,57 @@
+#PageTitle{
+	color: darkred;
+	font-family: 'Krona One', sans-serif;
+	text-align: center;
+	border-style: dashed;
+	width: 650px;
+	margin: auto;
+
+}
+
+.subtitle1{
+	font-family: 'News Cycle', sans-serif;
+	text-align: left;
+	color: brown;
+
+}
+
+.subtitle3{
+	font-family: 'News Cycle', sans-serif;
+	text-align: center;
+	display: inline-block;
+	color: brown;
+}
+
+.bodytext{
+	color: black;
+	font-family: 'IBM Plex Mono', monospace;
+	text-align: left;
+	width: 600px;
+	display: inline-block;
+}
+
+.subtitle2{
+	font-family: 'News Cycle', sans-serif;
+	text-align: center;
+	color: brown;
+}
+
+.map{
+	align-content: center;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding-left: 25px;
+}
+
+.imgedit{
+	padding-top:  50px;
+}
+
+.flameedit{
+	height: 50px;
+	width:  25px;
+	transform: scale(0.7);
+}
